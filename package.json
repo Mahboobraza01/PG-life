@@ -1,0 +1,7 @@
+{
+  "name": "pg-life",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "php -S localhost:3000"
+  }
+}
